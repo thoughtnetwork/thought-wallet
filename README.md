@@ -1,6 +1,6 @@
 # Welcome to Thought Network, the global Artificial Intelligence Blockchain
 
-This repository contains the initial beta installations of Thought wallet for Mac, Windows, and Linux.
+This repository contains the initial beta installations of Thought wallet for Windows, and Linux.
 
 Before generating any addresses, please password protect and back up wallet.dat.
 

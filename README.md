@@ -12,6 +12,7 @@ https://thought.live
 
 info@thought.live
 
+Wallet source code can be found at:  https://github.com/thoughtnetwork/thought
 
 
 Note: Thought Network Ltd. is NOT responsible for lost or damaged private keys!

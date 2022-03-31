@@ -1,6 +1,10 @@
 # Welcome to Thought Network, the global Artificial Intelligence Blockchain
 
-This repository contains the initial beta installations of Thought wallet for Windows, and Linux.
+This repository contains the current binary distributions of Thought wallet for Windows, Mac, and Linux.
+
+The latest release version is 0.18.2, released 30 April 2022.  All previous versions are obsolete.
+
+If you are upgrading from a previous version, please back up `wallet.dat`.
 
 Before generating any addresses, please password protect and back up `wallet.dat`.
 

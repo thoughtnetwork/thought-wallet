@@ -2,7 +2,7 @@
 
 This repository contains the current binary distributions of Thought wallet for Windows, Mac, and Linux.
 
-The latest release version is 0.18.2, released 30 April 2022.  All previous versions are obsolete.
+The latest release version is 0.18.2, released 30 March 2022.  All previous versions are obsolete.
 
 If you are upgrading from a previous version, please back up `wallet.dat`.
 
